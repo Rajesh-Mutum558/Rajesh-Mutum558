@@ -1,5 +1,4 @@
-## Hi there 👋
-Mutum Rajesh Meitei
+<p align="center"><img width="50%" src="./Rajesh.gif" /></a></p>
 <!--
 **Rajesh-Mutum558/Rajesh-Mutum558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
