@@ -1,4 +1,4 @@
-<p align="center"><img width="20%" src="./Rajesh.gif" /></a></p>
+<p align="center"><img width="10%" src="./Rajesh.gif" /></a></p>
 <!--
 **Rajesh-Mutum558/Rajesh-Mutum558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
