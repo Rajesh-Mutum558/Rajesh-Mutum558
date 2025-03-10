@@ -40,16 +40,6 @@
       <td><img width="100%" src="./Rajesh.gif" /></td>
       <td><img width="100%" src="./Rajesh.gif" /></td>
     </tr>
-    <tr>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-      <td><img width="100%" src="./Rajesh.gif" /></td>
-    </tr>
 
 
 
